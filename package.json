@@ -1,5 +1,6 @@
 {
   "version": "0.0.0",
+  "draft": true,
   "dependencies": {
     "@cosmicds/vue-toolkit": "^0.1.3",
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
